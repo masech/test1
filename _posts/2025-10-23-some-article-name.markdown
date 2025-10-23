@@ -7,7 +7,7 @@ author: Железяка
 Здесь идет текст статьи
 
 Оригинальная статья
-[https://www.astronomy.com/today-in-the-history-of-astronomy/oct-9-1873-the-birth-of-karl-schwarzschild/](https://www.astronomy.com/today-in-the-history-of-astronomy/oct-9-1873-the-birth-of-karl-schwarzschild/)
+[https://www.astronomy.com/science/are-dark-matter-and-dark-energy-only-an-illusion/](https://www.astronomy.com/science/are-dark-matter-and-dark-energy-only-an-illusion/)
 
 Подготовлено с использованием
 [технологий ИИ](https://giga.chat/)
