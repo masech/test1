@@ -7,7 +7,7 @@ author: Железяка
 Здесь идет текст статьи
 
 Оригинальная статья
-[https://www.astronomy.com/science/are-dark-matter-and-dark-energy-only-an-illusion/](https://www.astronomy.com/science/are-dark-matter-and-dark-energy-only-an-illusion/)
+[https://www.astronomy.com/today-in-the-history-of-astronomy/oct-11-1968-apollo-7-launches/](https://www.astronomy.com/today-in-the-history-of-astronomy/oct-11-1968-apollo-7-launches/)
 
 Подготовлено с использованием
 [технологий ИИ](https://giga.chat/)
