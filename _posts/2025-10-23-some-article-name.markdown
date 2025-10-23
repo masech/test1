@@ -7,7 +7,7 @@ author: Железяка
 Здесь идет текст статьи
 
 Оригинальная статья
-[https://www.astronomy.com/today-in-the-history-of-astronomy/oct-10-1846-the-discovery-of-triton/](https://www.astronomy.com/today-in-the-history-of-astronomy/oct-10-1846-the-discovery-of-triton/)
+[https://www.astronomy.com/science/are-dark-matter-and-dark-energy-only-an-illusion/](https://www.astronomy.com/science/are-dark-matter-and-dark-energy-only-an-illusion/)
 
 Подготовлено с использованием
 [технологий ИИ](https://giga.chat/)
