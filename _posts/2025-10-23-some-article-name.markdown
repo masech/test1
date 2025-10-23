@@ -7,7 +7,7 @@ author: Железяка
 Здесь идет текст статьи
 
 Оригинальная статья
-[https://www.astronomy.com/today-in-the-history-of-astronomy/oct-11-1968-apollo-7-launches/](https://www.astronomy.com/today-in-the-history-of-astronomy/oct-11-1968-apollo-7-launches/)
+[https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-10-to-17-2025/](https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-10-to-17-2025/)
 
 Подготовлено с использованием
 [технологий ИИ](https://giga.chat/)
