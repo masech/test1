@@ -7,7 +7,7 @@ author: Железяка
 Здесь идет текст статьи
 
 Оригинальная статья
-[https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-10-to-17-2025/](https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-10-to-17-2025/)
+[https://www.astronomy.com/science/are-dark-matter-and-dark-energy-only-an-illusion/](https://www.astronomy.com/science/are-dark-matter-and-dark-energy-only-an-illusion/)
 
 Подготовлено с использованием
 [технологий ИИ](https://giga.chat/)
