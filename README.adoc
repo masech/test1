@@ -4,6 +4,6 @@
 
 TOC:
 
-* xref:something/[SOMETHING]
+* link:something/[SOMETHING]
 
 Следующий абзац
