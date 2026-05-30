@@ -4,6 +4,6 @@
 
 TOC:
 
-* link:something/[SOMETHING]
+* xref:something/README.adoc[SOMETHING]
 
 Следующий абзац
